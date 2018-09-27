@@ -13,5 +13,8 @@
 
 Route::get('/', function () {
     return view('app.entities.statics.home');
-});
+})->name('home');
 
+Route::get('/director', function () {
+    return view('app.entities.doctor.show');
+})->name('director');

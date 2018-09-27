@@ -242,3 +242,5 @@
             }</style>
     </noscript>
 </head>
+<body class="home page-template page-template-page-home page-template-page-home-php page page-id-142 wp-custom-logo wpb-js-composer js-comp-ver-5.0.1 vc_responsive">
+<div class="page">
