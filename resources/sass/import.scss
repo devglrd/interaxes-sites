@@ -1,0 +1,1284 @@
+body {
+    font-family: Lato;
+    line-height: 26px;
+    font-weight: 400;
+    font-style: normal;
+    color: #555555;
+    font-size: 16px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading body, {
+    opacity: 0;
+}
+
+.ie.wf-loading body, {
+    visibility: hidden;
+}
+
+.breadcrumb ul li, .breadcrumbs ul li, .breadcrumb, .breadcrumbs {
+    font-family: Lato;
+    font-weight: 400;
+    font-style: normal;
+    color: #9c9c9c;
+    font-size: 11px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading .breadcrumb ul li, .wf-loading .breadcrumbs ul li, .wf-loading .breadcrumb, .wf-loading .breadcrumbs, {
+    opacity: 0;
+}
+
+.ie.wf-loading .breadcrumb ul li, .ie.wf-loading .breadcrumbs ul li, .ie.wf-loading .breadcrumb, .ie.wf-loading .breadcrumbs, {
+    visibility: hidden;
+}
+
+.filter-holder {
+    font-family: Lato;
+    font-weight: 400;
+    font-style: normal;
+    color: #555555;
+    font-size: 14px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading .filter-holder, {
+    opacity: 0;
+}
+
+.ie.wf-loading .filter-holder, {
+    visibility: hidden;
+}
+
+#logo h1 a {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-style: normal;
+    color: #212121;
+    font-size: 34px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading #logo h1 a, {
+    opacity: 0;
+}
+
+.ie.wf-loading #logo h1 a, {
+    visibility: hidden;
+}
+
+nav.site-navigation ul li a {
+    font-family: Lato;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-style: normal;
+    color: #555555;
+    font-size: 12px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading nav.site-navigation ul li a, {
+    opacity: 0;
+}
+
+.ie.wf-loading nav.site-navigation ul li a, {
+    visibility: hidden;
+}
+
+nav.site-navigation ul.sub-menu li a {
+    font-family: Lato;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-style: normal;
+    color: #777777;
+    font-size: 12px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading nav.site-navigation ul.sub-menu li a, {
+    opacity: 0;
+}
+
+.ie.wf-loading nav.site-navigation ul.sub-menu li a, {
+    visibility: hidden;
+}
+
+#masthead .top-header {
+    font-family: Lato;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffffff;
+    font-size: 14px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading #masthead .top-header, {
+    opacity: 0;
+}
+
+.ie.wf-loading #masthead .top-header, {
+    visibility: hidden;
+}
+
+body .main-content h1 {
+    font-family: Lato;
+    font-weight: 600;
+    font-style: normal;
+    color: #222222;
+    font-size: 36px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading body .main-content h1, {
+    opacity: 0;
+}
+
+.ie.wf-loading body .main-content h1, {
+    visibility: hidden;
+}
+
+body .main-content h2 {
+    font-family: Lato;
+    font-weight: 600;
+    font-style: normal;
+    color: #222222;
+    font-size: 26px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading body .main-content h2, {
+    opacity: 0;
+}
+
+.ie.wf-loading body .main-content h2, {
+    visibility: hidden;
+}
+
+body .main-content h3 {
+    font-family: Lato;
+    font-weight: 600;
+    font-style: normal;
+    color: #222222;
+    font-size: 20px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading body .main-content h3, {
+    opacity: 0;
+}
+
+.ie.wf-loading body .main-content h3, {
+    visibility: hidden;
+}
+
+body .main-content h4 {
+    font-family: Lato;
+    font-weight: 600;
+    font-style: normal;
+    color: #222222;
+    font-size: 16px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading body .main-content h4, {
+    opacity: 0;
+}
+
+.ie.wf-loading body .main-content h4, {
+    visibility: hidden;
+}
+
+body .main-content h5 {
+    font-family: Lato;
+    font-weight: 600;
+    font-style: normal;
+    color: #222222;
+    font-size: 13px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading body .main-content h5, {
+    opacity: 0;
+}
+
+.ie.wf-loading body .main-content h5, {
+    visibility: hidden;
+}
+
+body .main-content h6 {
+    font-family: Lato;
+    font-weight: 600;
+    font-style: normal;
+    color: #222222;
+    font-size: 15px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading body .main-content h6, {
+    opacity: 0;
+}
+
+.ie.wf-loading body .main-content h6, {
+    visibility: hidden;
+}
+
+.page-title h2 {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-style: normal;
+    color: #222222;
+    font-size: 44px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading .page-title h2, {
+    opacity: 0;
+}
+
+.ie.wf-loading .page-title h2, {
+    visibility: hidden;
+}
+
+article.blog-post h3.post-title, article.blog-post h1.post-title {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-style: normal;
+    color: #344d67;
+    font-size: 35px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading article.blog-post h3.post-title, .wf-loading article.blog-post h1.post-title, {
+    opacity: 0;
+}
+
+.ie.wf-loading article.blog-post h3.post-title, .ie.wf-loading article.blog-post h1.post-title, {
+    visibility: hidden;
+}
+
+.entry-meta {
+    font-family: Lato;
+    font-weight: 400;
+    font-style: normal;
+    color: #bfbfbf;
+    font-size: 12px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading .entry-meta, {
+    opacity: 0;
+}
+
+.ie.wf-loading .entry-meta, {
+    visibility: hidden;
+}
+
+#events h3.post-title, #gallery h3.post-title, #services h3.post-title, #departments h3.post-title, #doctors h3.post-title, .latest-news h3.post-title {
+    font-family: Lato;
+    font-weight: 600;
+    font-style: normal;
+    color: #222222;
+    font-size: 18px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading #events h3.post-title, .wf-loading #gallery h3.post-title, .wf-loading #services h3.post-title, .wf-loading #departments h3.post-title, .wf-loading #doctors h3.post-title, .wf-loading .latest-news h3.post-title, {
+    opacity: 0;
+}
+
+.ie.wf-loading #events h3.post-title, .ie.wf-loading #gallery h3.post-title, .ie.wf-loading #services h3.post-title, .ie.wf-loading #departments h3.post-title, .ie.wf-loading #doctors h3.post-title, .ie.wf-loading .latest-news h3.post-title, {
+    visibility: hidden;
+}
+
+body .main-content #doctor-header h1, body .main-content .white-grid-detail-header h1 {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-style: normal;
+    color: #143757;
+    font-size: 30px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading body .main-content #doctor-header h1, .wf-loading body .main-content .white-grid-detail-header h1, {
+    opacity: 0;
+}
+
+.ie.wf-loading body .main-content #doctor-header h1, .ie.wf-loading body .main-content .white-grid-detail-header h1, {
+    visibility: hidden;
+}
+
+.section-widget h4.section-title {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-style: normal;
+    color: #000000;
+    font-size: 24px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading .section-widget h4.section-title, {
+    opacity: 0;
+}
+
+.ie.wf-loading .section-widget h4.section-title, {
+    visibility: hidden;
+}
+
+.doctors ul li small {
+    font-family: Lato;
+    font-weight: 400;
+    font-style: normal;
+    color: #aaa;
+    font-size: 14px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading .doctors ul li small, {
+    opacity: 0;
+}
+
+.ie.wf-loading .doctors ul li small, {
+    visibility: hidden;
+}
+
+.highlight-info ul li .detail {
+    font-family: Lato;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffffff;
+    font-size: 16px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading .highlight-info ul li .detail, {
+    opacity: 0;
+}
+
+.ie.wf-loading .highlight-info ul li .detail, {
+    visibility: hidden;
+}
+
+#rightcontent h4.widget-title, #post-author h4.widget-title, #comment-form h4.widget-title, .contact-wrapper h4.widget-title, .content-inner-pages h4.widget-title {
+    font-family: Montserrat;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-style: normal;
+    color: #222;
+    font-size: 18px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading #rightcontent h4.widget-title, .wf-loading #post-author h4.widget-title, .wf-loading #comment-form h4.widget-title, .wf-loading .contact-wrapper h4.widget-title, .wf-loading .content-inner-pages h4.widget-title, {
+    opacity: 0;
+}
+
+.ie.wf-loading #rightcontent h4.widget-title, .ie.wf-loading #post-author h4.widget-title, .ie.wf-loading #comment-form h4.widget-title, .ie.wf-loading .contact-wrapper h4.widget-title, .ie.wf-loading .content-inner-pages h4.widget-title, {
+    visibility: hidden;
+}
+
+#footer-widget h4.widget-title {
+    font-family: Montserrat;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-style: normal;
+    color: #ffffff;
+    font-size: 16px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading #footer-widget h4.widget-title, {
+    opacity: 0;
+}
+
+.ie.wf-loading #footer-widget h4.widget-title, {
+    visibility: hidden;
+}
+
+#main-footer {
+    font-family: Lato;
+    font-weight: 400;
+    font-style: normal;
+    color: #909090;
+    font-size: 14px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading #main-footer, {
+    opacity: 0;
+}
+
+.ie.wf-loading #main-footer, {
+    visibility: hidden;
+}
+
+.schedule-table .schedule-header .td {
+    font-family: Lato;
+    font-weight: 600;
+    font-style: normal;
+    color: #ffffff;
+    font-size: 16px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading .schedule-table .schedule-header .td, {
+    opacity: 0;
+}
+
+.ie.wf-loading .schedule-table .schedule-header .td, {
+    visibility: hidden;
+}
+
+.schedule-table ul li .td {
+    font-family: Lato;
+    font-weight: 600;
+    font-style: normal;
+    color: #000;
+    font-size: 16px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading .schedule-table ul li .td, {
+    opacity: 0;
+}
+
+.ie.wf-loading .schedule-table ul li .td, {
+    visibility: hidden;
+}
+
+form label {
+    font-family: Lato;
+    font-weight: 400;
+    font-style: normal;
+    color: #6e868c;
+    font-size: 16px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading form label, {
+    opacity: 0;
+}
+
+.ie.wf-loading form label, {
+    visibility: hidden;
+}
+
+form input[type="text"], form input[type="password"], form input[type="email"], select, form textarea, .input textarea, form input[type="url"], form input[type="date"], .select2-container--default .select2-selection--single {
+    font-family: Lato;
+    font-weight: 400;
+    font-style: normal;
+    color: #6e868c;
+    font-size: 16px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading form input[type="text"], .wf-loading form input[type="password"], .wf-loading form input[type="email"], .wf-loading select, .wf-loading form textarea, .wf-loading .input textarea, .wf-loading form input[type="url"], .wf-loading form input[type="date"], .wf-loading .select2-container--default .select2-selection--single, {
+    opacity: 0;
+}
+
+.ie.wf-loading form input[type="text"], .ie.wf-loading form input[type="password"], .ie.wf-loading form input[type="email"], .ie.wf-loading select, .ie.wf-loading form textarea, .ie.wf-loading .input textarea, .ie.wf-loading form input[type="url"], .ie.wf-loading form input[type="date"], .ie.wf-loading .select2-container--default .select2-selection--single, {
+    visibility: hidden;
+}
+
+form .button.submit-button, form button[type="submit"], form input[type="submit"], .search-widget .button.searchbutton, form .button {
+    font-family: Lato;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-style: normal;
+    color: #ffffff;
+    font-size: 12px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading form .button.submit-button, .wf-loading form button[type="submit"], .wf-loading form input[type="submit"], .wf-loading .search-widget .button.searchbutton, .wf-loading form .button, {
+    opacity: 0;
+}
+
+.ie.wf-loading form .button.submit-button, .ie.wf-loading form button[type="submit"], .ie.wf-loading form input[type="submit"], .ie.wf-loading .search-widget .button.searchbutton, .ie.wf-loading form .button, {
+    visibility: hidden;
+}
+
+.button.red {
+    font-family: Montserrat;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffffff;
+    font-size: 14px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading .button.red, {
+    opacity: 0;
+}
+
+.ie.wf-loading .button.red, {
+    visibility: hidden;
+}
+
+.button.green {
+    font-family: Montserrat;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffffff;
+    font-size: 14px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading .button.green, {
+    opacity: 0;
+}
+
+.ie.wf-loading .button.green, {
+    visibility: hidden;
+}
+
+.button.blue {
+    font-family: Lato;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-style: normal;
+    color: #ffffff;
+    font-size: 12px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading .button.blue, {
+    opacity: 0;
+}
+
+.ie.wf-loading .button.blue, {
+    visibility: hidden;
+}
+
+body {
+    background-color: #ffffff;
+}
+
+.breadcrumb ul li a, .breadcrumb a, .breadcrumbs ul li a, .breadcrumbs a {
+    color: #6e868c;
+}
+
+.breadcrumb ul li a:hover, .breadcrumb a:hover, .breadcrumbs ul li a:hover, .breadcrumbs a:hover {
+    color: #6e868c;
+}
+
+a {
+    color: #6e868c;
+}
+
+a:hover {
+    color: #6e868c;
+}
+
+.entry-meta a {
+    color: #aaa;
+}
+
+.entry-meta a:hover {
+    color: #666;
+}
+
+h3.post-title a, .post-title a {
+    color: #01579b;
+}
+
+h3.post-title a:hover, .post-title a:hover {
+    color: #c2185b;
+}
+
+.share-widget ul li a {
+    color: #6e868c;
+}
+
+.share-widget ul li a:hover {
+    color: #6e868c;
+}
+
+.filter-holder a.filter {
+    color: #6e868c;
+}
+
+.filter-holder a.filter:hover {
+    color: #6e868c;
+}
+
+.filter-holder a.filter {
+    border-bottom: 2px solid #aaa;
+}
+
+.filter-holder a.filter.active {
+    border-bottom: 2px solid #FF0000;
+}
+
+h4.section-title:after {
+    background-color: #d81B60;
+}
+
+.button.red {
+    background-color: #f20c36;
+}
+
+.button.red:hover {
+    background-color: #f20c36;
+}
+
+.button.green {
+    background-color: #43a047;
+}
+
+.button.green:hover {
+    background-color: #43a047;
+}
+
+.button.blue {
+    background-color: #1379d6;
+}
+
+.button.blue:hover {
+    background-color: #1379d6;
+}
+
+#backtotop {
+    background-color: #111111;
+}
+
+#backtotop {
+    color: #ffffff;
+}
+
+.pagination a, .pagination span.current {
+    background-color: #ffffff;
+}
+
+.pagination a, .pagination span.current {
+    border: 1px solid #344d67;
+}
+
+.pagination a:hover, .pagination span.current {
+    background-color: #ffffff;
+}
+
+.pagination a:hover, .pagination span.current {
+    border: 1px solid #000000;
+}
+
+.top-header {
+    background-color: #1379d6;
+}
+
+.top-header a, .top-header ul li a {
+    color: #ffffff;
+}
+
+.top-header a:hover, .top-header ul li a:hover {
+    color: #ffffff;
+}
+
+nav.site-navigation ul li a, #mega-menu-wrap-main-menu #mega-menu-main-menu > li.mega-menu-item > a, #mega-menu-wrap-main-menu #mega-menu-main-menu > li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item a {
+    color: #555555;
+}
+
+nav.site-navigation ul li a:hover, #mega-menu-wrap-main-menu #mega-menu-main-menu > li.mega-menu-item > a:hover, #mega-menu-wrap-main-menu #mega-menu-main-menu > li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item a:hover {
+    color: #d81B60;
+}
+
+header#masthead {
+    background-color: #ffffff;
+}
+
+header#masthead.sticky {
+    background-color: #ffffff;
+}
+
+nav.site-navigation ul li ul.sub-menu {
+    background-color: #ffffff;
+}
+
+.site-navigation ul li.menu-item-has-children ul li {
+    border-left: 1px solid #eeeeee;
+    border-right: 1px solid #eeeeee;
+}
+
+.site-navigation ul li.menu-item-has-children ul li:hover {
+    background-color: #eeeeee;
+}
+
+.site-navigation ul li.menu-item-has-children ul li a {
+    color: #777777;
+}
+
+.site-navigation ul li.menu-item-has-children ul li a:hover {
+    color: #91a8ae;
+}
+
+#main-footer a, #main-footer ul li a {
+    color: #909090;
+}
+
+#main-footer a:hover, #main-footer ul li a:hover {
+    color: #c0c0c0;
+}
+
+#main-footer {
+    background-color: #212121;
+    //background-image: url('wp-content/uploads/sites/22/2016/04/footer_lodyas.png');
+}
+
+#footer-bottom {
+    border-top: 1px solid #373737;
+}
+
+.highlight-info {
+    background-color: #1379D6;
+}
+
+.highlight-info ul li .icon {
+    color: #ffffff;
+}
+
+.event-detail ul li {
+    background-color: #ffffff;
+}
+
+.event-detail ul li:nth-child(2n+2) {
+    background-color: #EDF5F7;
+}
+
+.schedule-table .schedule-header .td {
+    background-color: #232323;
+}
+
+.schedule-table ul li .td {
+    background-color: #fff;
+}
+
+.schedule-table .td.pres {
+    background-color: #add1f3;
+}
+
+form input[type="text"], form input[type="password"], form input[type="email"], textarea, form input[type="url"], form select, form input[type="date"], .select2-container--default .select2-selection--single {
+    background-color: #ffffff;
+}
+
+.block-form .form-group .input, .block-form .form-group select, .block-form .form-group textarea, .select2-container--default .select2-selection--single {
+    border: 1px solid #ccc;
+}
+
+form button[type="submit"].button.red, form input[type="submit"].button.red {
+    background-color: #f20c36;
+}
+
+form button[type="submit"].button.red:hover, form input[type="submit"].button.red:hover {
+    background-color: #f20c36;
+}
+.vc_custom_1456793795355 {
+    margin-bottom: 0px !important;
+}
+
+.vc_custom_1473854704718 {
+    margin-top: -50px !important;
+    padding-top: 30px !important;
+    padding-bottom: 0px !important;
+    background-color: #1565c0 !important;
+}
+
+.vc_custom_1469020819323 {
+    margin-top: 40px !important;
+    margin-bottom: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+.vc_custom_1469021458568 {
+    margin-bottom: 0px !important;
+}
+
+.vc_custom_1469021129994 {
+    margin-top: 0px !important;
+    margin-bottom: 30px !important;
+}
+
+.vc_custom_1473854728228 {
+    margin-bottom: 0px !important;
+    padding-top: 40px !important;
+    padding-bottom: 40px !important;
+    background-image: url("http://beta2.themewarrior.com/hospitalplus/files/2015/07/home-hero-image-3.jpg?id=1208") !important;
+}
+
+.vc_custom_1469079658033 {
+    margin-bottom: 0px !important;
+    padding-top: 40px !important;
+    padding-bottom: 40px !important;
+}
+
+.vc_custom_1469021708561 {
+    margin-bottom: 0px !important;
+    padding-top: 40px !important;
+    padding-bottom: 0px !important;
+    background-color: #f9f9f9 !important;
+}
+
+.vc_custom_1469021812599 {
+    margin-top: 0px !important;
+    margin-bottom: 40px !important;
+    padding-top: 40px !important;
+}
+
+.vc_custom_1473825334138 {
+    margin-bottom: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+.vc_custom_1466664553410 {
+    margin-bottom: 0px !important;
+    padding-top: 40px !important;
+    padding-bottom: 0px !important;
+}
+
+.vc_custom_1456793723141 {
+    margin-bottom: 0px !important;
+}
+
+.vc_custom_1473843055633 {
+    padding-left: 20px !important;
+}
+
+.vc_custom_1473831611259 {
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 10px !important;
+}
+
+.vc_custom_1460432842412 {
+    padding-bottom: 0px !important;
+}
+
+.vc_custom_1473831631132 {
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 10px !important;
+}
+
+.vc_custom_1460432607310 {
+    padding-bottom: 0px !important;
+}
+
+.vc_custom_1473834144261 {
+    margin-top: 20px !important;
+}
+
+.vc_custom_1473837104571 {
+    margin-bottom: 10px !important;
+}
+
+.vc_custom_1473831451014 {
+    margin-bottom: 10px !important;
+}
+
+.vc_custom_1461667901709 {
+    padding-right: 30px !important;
+    padding-left: 30px !important;
+}
+
+.vc_custom_1461667912214 {
+    padding-right: 30px !important;
+    padding-left: 30px !important;
+}
+
+.vc_custom_1461667922249 {
+    padding-right: 30px !important;
+    padding-left: 30px !important;
+}
+
+.vc_custom_1469007266800 {
+    margin-bottom: 20px !important;
+}
+
+.vc_custom_1473827114302 {
+    margin-top: 0px !important;
+    margin-bottom: 20px !important;
+    padding-top: 0px !important;
+}
+
+.vc_custom_1473827134441 {
+    margin-top: 0px !important;
+    margin-bottom: 20px !important;
+    padding-top: 0px !important;
+}
+
+.vc_custom_1469007574989 {
+    margin-bottom: 20px !important;
+}
+
+.vc_custom_1473827154417 {
+    margin-top: 0px !important;
+    margin-bottom: 20px !important;
+    padding-top: 0px !important;
+}
+
+.vc_custom_1473827134441 {
+    margin-top: 0px !important;
+    margin-bottom: 20px !important;
+    padding-top: 0px !important;
+}
+
+.vc_custom_1469007628971 {
+    margin-bottom: 20px !important;
+}
+
+.vc_custom_1473827173435 {
+    margin-top: 0px !important;
+    margin-bottom: 20px !important;
+    padding-top: 0px !important;
+}
+
+.vc_custom_1473827134441 {
+    margin-top: 0px !important;
+    margin-bottom: 20px !important;
+    padding-top: 0px !important;
+}
+
+.vc_custom_1461667934026 {
+    padding-right: 30px !important;
+    padding-left: 30px !important;
+}
+
+.vc_custom_1461667941931 {
+    padding-right: 30px !important;
+    padding-left: 30px !important;
+}
+
+.vc_custom_1461667949312 {
+    padding-right: 30px !important;
+    padding-left: 30px !important;
+}
+
+.vc_custom_1469007698593 {
+    margin-bottom: 20px !important;
+}
+
+.vc_custom_1473827919723 {
+    margin-top: 0px !important;
+    margin-bottom: 20px !important;
+    padding-top: 0px !important;
+}
+
+.vc_custom_1473827134441 {
+    margin-top: 0px !important;
+    margin-bottom: 20px !important;
+    padding-top: 0px !important;
+}
+
+.vc_custom_1469007733918 {
+    margin-bottom: 20px !important;
+}
+
+.vc_custom_1473827943836 {
+    margin-top: 0px !important;
+    margin-bottom: 20px !important;
+    padding-top: 0px !important;
+}
+
+.vc_custom_1473827134441 {
+    margin-top: 0px !important;
+    margin-bottom: 20px !important;
+    padding-top: 0px !important;
+}
+
+.vc_custom_1469007778884 {
+    margin-bottom: 20px !important;
+}
+
+.vc_custom_1473827965671 {
+    margin-top: 0px !important;
+    margin-bottom: 20px !important;
+    padding-top: 0px !important;
+}
+
+.vc_custom_1473827134441 {
+    margin-top: 0px !important;
+    margin-bottom: 20px !important;
+    padding-top: 0px !important;
+}
+
+.vc_custom_1473831329282 {
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 20px !important;
+}
+
+.vc_custom_1473831381342 {
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 10px !important;
+}
+
+.vc_custom_1459845236376 {
+    padding-bottom: 30px !important;
+}
+
+.vc_custom_1461733361311 {
+    margin-bottom: 0px !important;
+}
+
+.vc_custom_1473831312267 {
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 20px !important;
+}
+
+.vc_custom_1455852698779 {
+    padding-bottom: 30px !important;
+}
+
+.vc_custom_1473831056495 {
+    margin-bottom: 0px !important;
+    padding-right: 20% !important;
+    padding-bottom: 0px !important;
+    padding-left: 20% !important;
+}
+
+.vc_custom_1461725972859 {
+    margin-top: 30px !important;
+    margin-bottom: 5px !important;
+}
+
+.vc_custom_1473831101776 {
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+}
+
+.vc_custom_1473831127345 {
+    margin-bottom: 30px !important;
+}
+
+.vc_custom_1473831766288 {
+    margin-bottom: 5px !important;
+}
+
+.vc_custom_1461728865199 {
+    margin-bottom: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+.vc_custom_1473831280830 {
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 20px !important;
+}
+
+.vc_custom_1455852698779 {
+    padding-bottom: 30px !important;
+}
+
+.vc_custom_1473831569550 {
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 20px !important;
+}
+
+.vc_custom_1469008030972 {
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 10px !important;
+}
+
+.vc_custom_1455852698779 {
+    padding-bottom: 30px !important;
+}
+
+.vc_custom_1456273802319 {
+    margin-top: 0px !important;
+    margin-right: 0px !important;
+    margin-bottom: 0px !important;
+    margin-left: 0px !important;
+    padding-top: 0px !important;
+    padding-right: 0px !important;
+    padding-bottom: 0px !important;
+    padding-left: 0px !important;
+}
+
+.vc_custom_1473825352401 {
+    background-image: url("http://beta2.themewarrior.com/hospitalplus/files/2016/04/Three-Musketeers.jpg?id=1130") !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+.vc_custom_1473854743212 {
+    padding-top: 50px !important;
+    padding-right: 50px !important;
+    padding-bottom: 50px !important;
+    padding-left: 50px !important;
+    background-color: #1565c0 !important;
+}
+
+.vc_custom_1473831506837 {
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 10px !important;
+}
+
+.vc_custom_1473854881170 {
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 10px !important;
+}
+
+.vc_custom_1461224268983 {
+    margin-bottom: 0px !important;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+.vc_custom_1473854841926 {
+    margin-top: 40px !important;
+}
+
+.vc_custom_1457671023134 {
+    margin-bottom: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+.vc_custom_1473831554149 {
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 20px !important;
+}
+
+.vc_custom_1455852698779 {
+    padding-bottom: 30px !important;
+}
+
+.vc_custom_1461671286581 {
+    margin-bottom: 0px !important;
+    padding-bottom: 0px !important;
+}
