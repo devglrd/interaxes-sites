@@ -7,7 +7,7 @@
     <div class="header-main">
         <div class="container">
             <!-- Start : Site Logo Section -->
-            <div id="logo" class="site-title"><a href="index.html" class="custom-logo-link" rel="home"
+            <div id="logo" class="site-title"><a href="{{ route('home') }}" class="custom-logo-link" rel="home"
                                                  itemprop="url"><img width="182" height="34"
                                                                      src="{{asset('images/logo.png')}}"
                                                                      class="custom-logo" alt="Hospital Plus"

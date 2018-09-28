@@ -14,7 +14,7 @@
             <div class="page-title"
                  style="background-image: url('../../wp-content/themes/hospitalplus/images/header/header.jpg')">
                 <div class="container">
-                    <h2>Doctors</h2>
+                    <h2>Docteur</h2>
                 </div>
             </div>
             <!-- End : Page Title Section -->
