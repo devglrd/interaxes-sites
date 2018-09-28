@@ -9,7 +9,7 @@
             <!-- Start : Site Logo Section -->
             <div id="logo" class="site-title"><a href="index.html" class="custom-logo-link" rel="home"
                                                  itemprop="url"><img width="182" height="34"
-                                                                     src="wp-content/uploads/sites/22/2016/04/logo-hospitalplus.png"
+                                                                     src="{{asset('images/logo.png')}}"
                                                                      class="custom-logo" alt="Hospital Plus"
                                                                      itemprop="logo"/></a></div>
             <!-- End : Site Logo Section -->
