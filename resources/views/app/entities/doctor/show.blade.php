@@ -105,7 +105,7 @@
                                         <div class="overlay">
                                             <div class="table">
                                                 <div class="table-cell tablecell">
-                                                    <a class="overlay-link" href="../dr-janne-wilson/index.html"
+                                                    <a class="overlay-link" href="{{ route('lewis') }}"
                                                        title="'. get_the_title() .'"></a>
                                                     <div class="social">
                                                         <ul>

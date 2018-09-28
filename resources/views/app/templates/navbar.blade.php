@@ -34,14 +34,14 @@
                                         <a href="{{ route('director') }}">Directeur John Allen</a></li>
                                     <li id="menu-item-972"
                                         class="menu-item menu-item-type-post_type menu-item-object-doctor menu-item-972">
-                                        <a href="doctor/dr-nancy-lewis/index.html">Dr. Nancy Lewis</a></li>
+                                        <a href="{{ route('lewis') }}">Dr. Nancy Lewis</a></li>
                                 </ul>
                             </li>
                         </ul>
                     </li>
                     <li id="menu-item-1011"
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1011"><a
-                                href="contact/index.html">Contact</a></li>
+                                href="{{ route('contact') }}">Contact</a></li>
                 </ul>
                 <a class="menu-trigger"><i class="fa fa-bars"></i></a>
             </nav>

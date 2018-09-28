@@ -11,116 +11,18 @@
                         <div id="widget-warrior_site_info_posts-2" class="widget warrior_site_info_posts">
                             <div class="footer-widget-item site-info">
                                 <a href="../hospitalplus.html" class="footer-logo"><img
-                                            src="wp-content/themes/hospitalplus/images/logo-footer.png" alt=""/></a>
+                                            src="{{ asset('images/logo.png') }}" alt=""/></a>
                                 <br>
-                                <p>My kinda people, my kinda place. There&#039;s something special about this
-                                   place.</p>
+                                <p>Nous nous occuper du mieux que nous pouvons de vos proche</p>
                                 <br><br>
                                 <address>
-                                    <strong>Hospital+</strong><br>
-                                    33 Farlane Street<br>
-                                    Keilor East<br>
-                                    VIC 3033, Australia<br>
+                                    <strong>Paradise Valley</strong><br>
                                     <div class="contact-info">
-                                        +123 655 655<br>
-                                        +123 655 755<br>
-                                        <a href="../cdn-cgi/l/email-protection.html" class="__cf_email__"
-                                           data-cfemail="a8c5cdccc1cbc7e8c5c9c1c486cbc7c5">[email&#160;protected]</a>
                                     </div>
                                 </address>
                             </div>
                         
                         </div>
-                    </li>
-                    <li class="column column-38 widget warrior_latest_posts"
-                        id="footer-widget-warrior_latest_posts-2">
-                        <div id="widget-warrior_latest_posts-2" class="widget warrior_latest_posts">
-                            <div class="footer-widget-item footer-latest-post">
-                                <h4 class="widget-title">Latest <strong>Posts</strong></h4>
-                                <ul>
-                                    <li>
-                                        <a href="together-we-can-do-so-much/index.html">Together we can do so
-                                                                                        much</a>
-                                        <div class="entry-meta">
-                                            <span>April 8, 2016</span>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <a href="the-three-musketeers-surgical-team/index.html">The Three Musketeers
-                                                                                                Surgical Team</a>
-                                        <div class="entry-meta">
-                                            <span>April 8, 2016</span>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <a href="accredited-surgical-facility/index.html">Accredited surgical
-                                                                                          facility</a>
-                                        <div class="entry-meta">
-                                            <span>April 8, 2016</span>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <a href="health-checks-for-babies/index.html">Health checks for babies</a>
-                                        <div class="entry-meta">
-                                            <span>April 8, 2016</span>
-                                        </div>
-                                    </li>
-                                
-                                </ul>
-                            </div>
-                        
-                        </div>
-                    </li>
-                    <li class="column column-38 widget widget_mc4wp_form_widget"
-                        id="footer-widget-mc4wp_form_widget-2">
-                        <div id="widget-mc4wp_form_widget-2" class="widget widget_mc4wp_form_widget"><h4
-                                    class="widget-title">Subscribe Newsletter</h4>
-                            <script data-cfasync="false"
-                                    src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-                            <script type="text/javascript">(function () {
-                                    if (!window.mc4wp) {
-                                        window.mc4wp = {
-                                            listeners: [],
-                                            forms: {
-                                                on: function (event, callback) {
-                                                    window.mc4wp.listeners.push({
-                                                        event: event,
-                                                        callback: callback
-                                                    });
-                                                }
-                                            }
-                                        }
-                                    }
-                                })();
-                            </script>
-                            <!-- MailChimp for WordPress v4.1.14 - https://wordpress.org/plugins/mailchimp-for-wp/ -->
-                            <form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-517 mc4wp-form-basic" method="post"
-                                  data-id="517" data-name="Default sign-up form">
-                                <div class="mc4wp-form-fields">
-                                    <div class="form-group">
-                                        <input type="text" name="subscriber-fullname" id="subscriber-fullname"
-                                               class="input" placeholder="Fullname">
-                                    </div>
-                                    <div class="form-group">
-                                        <input type="email" id="mc4wp_email" name="EMAIL" class="input"
-                                               placeholder="Email" required/>
-                                    </div>
-                                    <div class="form-group">
-                                        <button type="submit" class="button blue small">
-                                            Subscribe
-                                        </button>
-                                    </div>
-                                    <label style="display: none !important;">Leave this field empty if you're human:
-                                        <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1"
-                                               autocomplete="off"/></label><input type="hidden"
-                                                                                  name="_mc4wp_timestamp"
-                                                                                  value="1537970489"/><input
-                                            type="hidden" name="_mc4wp_form_id" value="517"/><input type="hidden"
-                                                                                                    name="_mc4wp_form_element_id"
-                                                                                                    value="mc4wp-form-1"/>
-                                </div>
-                                <div class="mc4wp-response"></div>
-                            </form><!-- / MailChimp for WordPress Plugin --></div>
                     </li>
                 </ul>
                 <div class="clearfix"></div>
@@ -132,8 +34,7 @@
     <!-- Start : Main Footer Section -->
     <div id="footer-bottom">
         <div class="container">
-            <span class="copyright">&copy; 2018 Hospital Plus.</span>
-            <span class="author">Designed by <a href="http://www.themewarrior.com" target="_blank">ThemeWarrior</a></span>
+            <span class="copyright">&copy; 2018 Paradise Valley.</span>
         </div>
     </div>
     <!-- End : Main Footer Section -->

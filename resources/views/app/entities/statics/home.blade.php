@@ -509,7 +509,7 @@
                                                     <div class="overlay">
                                                         <div class="table">
                                                             <div class="table-cell tablecell"><a
-                                                                        href="doctor/dr-veranda-tanumihardja/index.html"
+                                                                        href=""
                                                                         onclick="__gaTracker('send', 'event', 'outbound-article', 'http://demo2.themewarrior.com/hospitalplus/doctor/dr-veranda-tanumihardja/', '');"
                                                                         class="overlay-link"
                                                                         title="Dr.Veranda Tanumihardja"></a>
