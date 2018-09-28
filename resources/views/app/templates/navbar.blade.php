@@ -23,11 +23,11 @@
                     </li>
                     <li id="menu-item-1016"
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1016">
-                        <a href="doctors/index.html">Docteur clinique</a>
+                        <a href="#">Docteur clinique</a>
                         <ul class="sub-menu">
                             <li id="menu-item-975"
                                 class="menu-item menu-item-type-taxonomy menu-item-object-department menu-item-has-children menu-item-975">
-                                <a href="department/cardiology/index.html">psychothérapeute</a>
+                                <a href="#">psychothérapeute</a>
                                 <ul class="sub-menu">
                                     <li id="menu-item-971"
                                         class="menu-item menu-item-type-post_type menu-item-object-doctor menu-item-971">

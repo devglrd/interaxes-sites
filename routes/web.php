@@ -18,3 +18,6 @@ Route::get('/', function () {
 Route::get('/director', function () {
     return view('app.entities.doctor.show');
 })->name('director');
+Route::get('/lewis', function(){
+    return view('app.entities.doctor.lewis');
+});
